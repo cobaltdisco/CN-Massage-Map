@@ -181,7 +181,7 @@
         "按摩水平": "中上水平，正宗的泰式，请注意，只有新天地和淮海路店，是泰国人按摩",
         "评价人": "@cobaltdisco",
         "marker-color": "#3E3A51",
-        "marker-symbol": "3"
+        "marker-symbol": "4"
       },
       "geometry": {
         "type": "Point",
@@ -205,8 +205,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4702,
-          31.2169
+          121.4665,
+          31.2061
         ]
       }   
     }
