@@ -5,8 +5,10 @@
       "type": "Feature",
       "properties": {
         "名称": "Together Massage (太古汇店)",
-        "价格": "200 元左右",
-        "评论 (@cobaltdisco)": "虽然标榜的泰式，只有前小半段是，后面的还是中式，用力比较大",
+        "价格": "200 ~400 元左右",
+        "房间私密性": "还行",
+        "按摩水平": "虽然标榜的泰式，只有前小半段是，后面的还是中式，用力比较大",
+        "评价人": "@cobaltdisco",
         "marker-color": "#AFE4AC",
         "marker-symbol": "1"
       },
@@ -23,7 +25,9 @@
       "properties": {
         "名称": "桑格水疗 (大沽路店)",
         "价格": "200 ~ 500 元左右",
-        "评论 (@cobaltdisco)": "选择了一个高价位的，但是非常糊弄，完全不值得",
+        "房间私密性": "还行",
+        "按摩水平": "选择了一个高价位的，但是非常糊弄，完全不值得",
+        "评价人": "@cobaltdisco",
         "marker-color": "#927356",
         "marker-symbol": "0"
       },
@@ -34,6 +38,177 @@
           31.2273
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "韵道养生 (武宁南路店)",
+        "价格": "200 ~ 400 元左右",
+        "房间私密性": "还行",
+        "按摩水平": "按摩人员一直尝试聊天，无法得到完好的休息，按摩的话，中下水平",
+        "评价人": "@cobaltdisco",
+        "marker-color": "#4E7475",
+        "marker-symbol": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4269,
+          31.2337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "康友四季 (新天地店)",
+        "价格": "200 ~ 600 元左右",
+        "房间私密性": "还行",
+        "按摩水平": "房间小，中式按摩，力道非常大，按完很痛",
+        "评价人": "@cobaltdisco",
+        "marker-color": "#4E7475",
+        "marker-symbol": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4712,
+          31.2131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "域 SPA 足疗按摩 (新天地店)",
+        "价格": "200 ~ 500 元左右",
+        "房间私密性": "不好",
+        "按摩水平": "说是泰式，实际上是中式",
+        "评价人": "@cobaltdisco",
+        "marker-color": "#4E7475",
+        "marker-symbol": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4713,
+          31.2123
+        ]
+      }   
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "麦子 MaiMassage (打浦桥店)",
+        "价格": "200 ~ 400 元左右",
+        "房间私密性": "还行",
+        "按摩水平": "中式按摩，水平看人，上下起伏比较大，以及有推销",
+        "评价人": "@cobaltdisco",
+        "marker-color": "#4E7475",
+        "marker-symbol": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4701,
+          31.2104
+        ]
+      }   
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "清潤養生",
+        "价格": "200 ~ 600 元左右",
+        "房间私密性": "还行",
+        "按摩水平": "中式按摩，种下水平",
+        "评价人": "@cobaltdisco",
+        "marker-color": "#4E7475",
+        "marker-symbol": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4692,
+          31.2103
+        ]
+      }   
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Yu Massage 愉庭 (新乐路店)",
+        "价格": "200 ~ 600 元左右",
+        "房间私密性": "很好",
+        "按摩水平": "有双人按摩，然而体验后只是一个噱头，按摩水平一般",
+        "评价人": "@cobaltdisco",
+        "marker-color": "#4E7475",
+        "marker-symbol": "0.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4478,
+          31.2194
+        ]
+      }   
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "SINO SPA (淮海路店)",
+        "价格": "200 ~ 600 元左右",
+        "房间私密性": "很好",
+        "按摩水平": "水平意想不到的还行，中式按摩，按完还算舒服",
+        "评价人": "@cobaltdisco",
+        "marker-color": "#AFE4AC",
+        "marker-symbol": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4582,
+          31.2225
+        ]
+      }   
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "LANN I 蘭 泰式古法按摩 (新天地店)",
+        "价格": "300 ~ 700 元左右",
+        "房间私密性": "还行",
+        "按摩水平": "中上水平，正宗的泰式，请注意，只有新天地和淮海路店，是泰国人按摩",
+        "评价人": "@cobaltdisco",
+        "marker-color": "#3E3A51",
+        "marker-symbol": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4702,
+          31.2169
+        ]
+      }   
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "泰国 YAN SPA 健康水疗 (斯格威铂尔曼店)",
+        "价格": "500 ~ 800 元左右",
+        "房间私密性": "很好",
+        "按摩水平": "非常差，非常糊弄",
+        "评价人": "@cobaltdisco",
+        "marker-color": "#927356",
+        "marker-symbol": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4702,
+          31.2169
+        ]
+      }   
     }
   ]
 }
