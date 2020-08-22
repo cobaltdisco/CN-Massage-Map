@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Together Massage (太古汇店)",
+        "价格": "200 元左右",
+        "评论 (@cobaltdisco)": "虽然标榜的泰式，只有前小半段是，后面的还是中式，用力比较大",
+        "marker-color": "#AFE4AC",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2309,
+          121.4599
+        ]
+      }
+    }
+  ]
+}
