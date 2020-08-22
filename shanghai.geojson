@@ -10,7 +10,7 @@
         "按摩水平": "虽然标榜的泰式，只有前小半段是，后面的还是中式，用力比较大",
         "评价人": "@cobaltdisco",
         "marker-color": "#AFE4AC",
-        "marker-symbol": "1"
+        "marker-symbol": "3"
       },
       "geometry": {
         "type": "Point",
@@ -48,7 +48,7 @@
         "按摩水平": "按摩人员一直尝试聊天，无法得到完好的休息，按摩的话，中下水平",
         "评价人": "@cobaltdisco",
         "marker-color": "#4E7475",
-        "marker-symbol": "0.5"
+        "marker-symbol": "2"
       },
       "geometry": {
         "type": "Point",
@@ -67,7 +67,7 @@
         "按摩水平": "房间小，中式按摩，力道非常大，按完很痛",
         "评价人": "@cobaltdisco",
         "marker-color": "#4E7475",
-        "marker-symbol": "0.5"
+        "marker-symbol": "2"
       },
       "geometry": {
         "type": "Point",
@@ -86,7 +86,7 @@
         "按摩水平": "说是泰式，实际上是中式",
         "评价人": "@cobaltdisco",
         "marker-color": "#4E7475",
-        "marker-symbol": "0.5"
+        "marker-symbol": "2"
       },
       "geometry": {
         "type": "Point",
@@ -105,7 +105,7 @@
         "按摩水平": "中式按摩，水平看人，上下起伏比较大，以及有推销",
         "评价人": "@cobaltdisco",
         "marker-color": "#4E7475",
-        "marker-symbol": "0.5"
+        "marker-symbol": "2"
       },
       "geometry": {
         "type": "Point",
@@ -124,7 +124,7 @@
         "按摩水平": "中式按摩，种下水平",
         "评价人": "@cobaltdisco",
         "marker-color": "#4E7475",
-        "marker-symbol": "0.5"
+        "marker-symbol": "2"
       },
       "geometry": {
         "type": "Point",
@@ -143,7 +143,7 @@
         "按摩水平": "有双人按摩，然而体验后只是一个噱头，按摩水平一般",
         "评价人": "@cobaltdisco",
         "marker-color": "#4E7475",
-        "marker-symbol": "0.5"
+        "marker-symbol": "2"
       },
       "geometry": {
         "type": "Point",
@@ -162,7 +162,7 @@
         "按摩水平": "水平意想不到的还行，中式按摩，按完还算舒服",
         "评价人": "@cobaltdisco",
         "marker-color": "#AFE4AC",
-        "marker-symbol": "1"
+        "marker-symbol": "3"
       },
       "geometry": {
         "type": "Point",
@@ -181,7 +181,7 @@
         "按摩水平": "中上水平，正宗的泰式，请注意，只有新天地和淮海路店，是泰国人按摩",
         "评价人": "@cobaltdisco",
         "marker-color": "#3E3A51",
-        "marker-symbol": "2"
+        "marker-symbol": "4"
       },
       "geometry": {
         "type": "Point",
