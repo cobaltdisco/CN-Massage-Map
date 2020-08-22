@@ -8,13 +8,30 @@
         "价格": "200 元左右",
         "评论 (@cobaltdisco)": "虽然标榜的泰式，只有前小半段是，后面的还是中式，用力比较大",
         "marker-color": "#AFE4AC",
-        "marker-symbol": "star"
+        "marker-symbol": "1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           121.4599,
           31.2309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "桑格水疗 (大沽路店)",
+        "价格": "200 ~ 500 元左右",
+        "评论 (@cobaltdisco)": "选择了一个高价位的，但是非常糊弄，完全不值得",
+        "marker-color": "#927356",
+        "marker-symbol": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4599,
+          31.2273
         ]
       }
     }
