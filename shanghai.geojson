@@ -121,7 +121,7 @@
         "名称": "清潤養生",
         "价格": "200 ~ 600 元左右",
         "房间私密性": "还行",
-        "按摩水平": "中式按摩，种下水平",
+        "按摩水平": "中式按摩，中下水平",
         "评价人": "@cobaltdisco",
         "marker-color": "#4E7475",
         "marker-symbol": "2"
@@ -226,6 +226,44 @@
         "coordinates": [
           121.5639,
           31.1501
+        ]
+      }   
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "巴厘岛 SPA · BUNGA SPA",
+        "价格": "500 ~ 600 元左右",
+        "房间私密性": "还行",
+        "按摩水平": "首次尝试印尼按摩，和泰式精油其实差不多，价格的确偏贵了点",
+        "评价人": "@cobaltdisco",
+        "marker-color": "#3E3A51",
+        "marker-symbol": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4297,
+          31.2358
+        ]
+      }   
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "君悦富侨 (古北店)",
+        "价格": "100 ~ 350 元左右",
+        "房间私密性": "还行",
+        "按摩水平": "非常糊弄的水平，以及不是泰式",
+        "评价人": "@cobaltdisco",
+        "marker-color": "#927356",
+        "marker-symbol": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4047,
+          31.1842
         ]
       }   
     }
